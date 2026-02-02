@@ -1,6 +1,8 @@
 Disego's Premium Car Warehouse
+
 A modern, interactive web application for browsing and comparing premium vehicles. This single-page application provides an elegant user experience for car shoppers with advanced filtering, search, and comparison features.
 Features
+
 🚗 Vehicle Browsing
 
 Organized Categories: Browse cars by type - Hatchbacks, Sedans, Bakkies (pickups), and SUVs
@@ -37,7 +39,9 @@ PROJECTS SCREENSHOTS INTERFACE:
 <img width="940" height="771" alt="image" src="https://github.com/user-attachments/assets/31929454-96a1-4584-b752-9ba65e4023c8" />
 
 
+<img width="844" height="719" alt="image" src="https://github.com/user-attachments/assets/11a2ebc6-c918-4513-a964-7ec9f7ee85f8" />
 
+<img width="983" height="821" alt="image" src="https://github.com/user-attachments/assets/a19e7701-61a3-47e8-830d-d693baaeb511" />
 
 💫 Additional Features
 
